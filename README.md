@@ -7,4 +7,4 @@
 
 
 
-Finalizando projeto..... :grey_exclamation:
+Projeto em construção..... :grey_exclamation:
